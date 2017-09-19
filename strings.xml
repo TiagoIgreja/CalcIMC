@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CalculoIMC</string>
+    <string name="TextTitulo">CALCULADORA</string>
+    <string name="TextPeso">Informe o peso</string>
+    <string name="TextAltura">Informe a altura</string>
+    <string name="TextIMC">IMC</string>
+    <string name="TextPesoAltura">Altura:</string>
+    <string name="btLimpar">LIMPAR</string>
+    <string name="btCalcular">Calcular IMC</string>
+    <string name="img">acima</string>
+    <string name="rbMasculino">Masculino</string>
+    <string name="rbFeminino">Feminino</string>
+    <string name="lbImc">IMC:</string>
+    <string name="lbResultado">Resultado:</string>
+    <string name="lbSexo">Sexo:</string>
+</resources>
